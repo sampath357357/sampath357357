@@ -9,14 +9,14 @@
 ## 🏆 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/u/sampathKumar/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sampathKumar?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/sampathKumar_/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sampathKumar_?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Stats Card"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/sampathKumar/">
-    <img src="https://img.shields.io/badge/LeetCode-sampathKumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/sampathKumar_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-sampathKumar__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
