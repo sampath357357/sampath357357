@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sampath Kumar</h1>
 
-<!--
-**sampath357357/sampath357357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampath357357&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/sampathKumar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sampathKumar?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sampathKumar/">
+    <img src="https://img.shields.io/badge/LeetCode-sampathKumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampath357357&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath357357&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<p align="center"><b>💡 Keep solving. Keep growing. 🚀</b></p>
